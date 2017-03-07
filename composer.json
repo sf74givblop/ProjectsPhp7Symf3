@@ -1,0 +1,5 @@
+{
+    "require": {
+        "white-october/pagerfanta-bundle": "^1.0"
+    }
+}

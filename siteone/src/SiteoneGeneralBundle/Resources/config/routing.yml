@@ -1,0 +1,4 @@
+siteone_general_homepage:
+
+    path:     /
+    defaults: { _controller: SiteoneGeneralBundle:Default:index }
